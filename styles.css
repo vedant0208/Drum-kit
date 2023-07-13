@@ -21,15 +21,15 @@ footer {
 }
 
 .E {
-  background-image: url(tom3.png);;
+  background-image: url(tom2.png);;
 }
 
 .D {
-  background-image: url(crash.png);;
+  background-image: url(tom3.png);;
 }
 
 .A {
-  background-image: url(kick.png);;
+  background-image: url(tom4.png);;
 }
 
 .N {
@@ -37,11 +37,11 @@ footer {
 }
 
 .T {
-  background-image: url(tom4.png);
+  background-image: url(crash.png);
 }
 
 .🤞 {
-  background-image: url(tom2.png);
+  background-image: url(kick.png);
 }
 
 .set {
